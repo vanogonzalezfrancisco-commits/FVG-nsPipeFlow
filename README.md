@@ -8,7 +8,9 @@ The work focuses on turbulent pipe-flow simulations subjected to asymmetric flow
 
 ## Repository scope
 
-This repository only includes the MATLAB scripts used to:
+This repository includes the Final Degree Project document titled "Numerical study on the variation of heat transfer in a turbulent pipe flow with asymmetric flow-rate cycles featuring slow acceleration and rapid deceleration", authored by Francisco Vañó González.
+
+Additionally, it only includes the MATLAB scripts used to:
 
 * generate asymmetric Reynolds-number profiles;
 * normalize the corresponding bulk-velocity forcing signal;
@@ -16,7 +18,7 @@ This repository only includes the MATLAB scripts used to:
 * compare DNS-based Nusselt-number data with the Gnielinski correlation;
 * post-process wall-friction time series.
 
-The full DNS solver is not included in this repository. Only the MATLAB scripts developed for the thesis workflow are provided.
+The full DNS solver is not included in this repository. Only the thesis document and the MATLAB scripts developed for the workflow are provided.
 
 ## Repository structure
 
